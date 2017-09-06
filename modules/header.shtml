@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="../css/common.css">
+  <link rel="stylesheet" href="../css/header.css">
+  <script>
+    var w = document.documentElement.clientWidth || document.body.clientWidth;
+    document.documentElement.style.fontSize = (w / 750 * 100) + 'px';
+    window.onresize = function () {
+        var w = document.documentElement.clientWidth || document.body.clientWidth;
+        document.documentElement.style.fontSize = (w / 750 * 100) + 'px'
+    }
+</script>
+</head>
+<body>
+  <div class="wrap">
+    <div class="home_top">
+      <div class="logo_cont">
+          <a class="logo_img" href="#">
+              <img src="https://game.gtimg.cn/images/yxzj/m/m201606/cp/logo.png" alt="LOGO">
+          </a>
+          <div class="logo_title">
+              <h1>王者荣耀</h1>
+              <p>王者相见，打成一片</p>
+          </div>
+      </div>
+      <div class="download">
+          <a href="javascript:;">
+          </a>
+      </div>
+  </div>
+  </div>
+</body>
+</html>
