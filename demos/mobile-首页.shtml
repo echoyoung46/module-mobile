@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="../css/common.css">
+  <link rel="stylesheet" href="../css/header.css">
+  <link href="http://game.gtimg.cn/images/js/mocha/mocha-1.1.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/demo.css">
+  <script>
+    var w = document.documentElement.clientWidth || document.body.clientWidth;
+    document.documentElement.style.fontSize = (w / 750 * 100) + 'px';
+    window.onresize = function () {
+        var w = document.documentElement.clientWidth || document.body.clientWidth;
+        document.documentElement.style.fontSize = (w / 750 * 100) + 'px'
+    }
+	</script>
+</head>
+<body>
+  <div class="container">
+    <!-- header -->
+    <div class="wrap">
+      <div class="home_top">
+        <div class="logo_cont">
+            <a class="logo_img" href="#">
+                <img src="https://game.gtimg.cn/images/yxzj/m/m201606/cp/logo.png" alt="LOGO">
+            </a>
+            <div class="logo_title">
+                <h1>王者荣耀</h1>
+                <p>王者相见，打成一片</p>
+            </div>
+        </div>
+        <div class="download">
+            <a href="javascript:;">
+            </a>
+        </div>
+      </div>
+    </div>
+  
+    <div class="content">
+      <!-- banner -->
+      <div class="wrap">
+        <img src="http://via.placeholder.com/375x250" alt="">
+      </div>
+    
+      <!-- news -->
+      <div class="wrap">
+        <div id="tabBox1" class="mocha-tab mocha-tab-scheme2 mocha-tab-skin1">
+          <div class="mocha-tab-triggers">
+            <ul class="mocha-tab-triggers-ul">
+              <li class="current">新闻1</li>
+              <li>新闻2</li>
+              <li>新闻3</li>
+              <li>新闻4</li>
+            </ul>
+          </div>
+          <div class="mocha-tab-panels">
+            <div class="mocha-tab-panel" style="display:block">
+              <p>新闻1内容区</p>
+              <p>新闻1内容区</p>
+              <p>新闻1内容区</p>
+              <p>新闻1内容区</p>
+            </div>
+            <div class="mocha-tab-panel" style="display:block">
+              <p>新闻2内容区</p>
+              <p>新闻2内容区</p>
+              <p>新闻2内容区</p>
+              <p>新闻2内容区</p>
+            </div>
+            <div class="mocha-tab-panel" style="display:block">
+              <p>新闻3内容区</p>
+              <p>新闻3内容区</p>
+              <p>新闻3内容区</p>
+              <p>新闻3内容区</p>
+            </div>
+            <div class="mocha-tab-panel" style="display:block">
+              <p>新闻4内容区</p>
+              <p>新闻4内容区</p>
+              <p>新闻4内容区</p>
+              <p>新闻4内容区</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 游戏特色 -->
+      <div class="wrap">
+        <img src="http://via.placeholder.com/375x400" alt="">
+      </div>
+
+      <!-- strategy -->
+      <div class="wrap">
+        <div id="tabBox2" class="mocha-tab mocha-tab-scheme2 mocha-tab-skin1">
+          <div class="mocha-tab-triggers">
+            <ul class="mocha-tab-triggers-ul">
+              <li class="current">攻略1</li>
+              <li>攻略2</li>
+              <li>攻略3</li>
+              <li>攻略4</li>
+            </ul>
+          </div>
+          <div class="mocha-tab-panels">
+            <div class="mocha-tab-panel" style="display:block">
+              <p>攻略1内容区</p>
+              <p>攻略1内容区</p>
+              <p>攻略1内容区</p>
+              <p>攻略1内容区</p>
+            </div>
+            <div class="mocha-tab-panel" style="display:block">
+              <p>攻略2内容区</p>
+              <p>攻略2内容区</p>
+              <p>攻略2内容区</p>
+              <p>攻略2内容区</p>
+            </div>
+            <div class="mocha-tab-panel" style="display:block">
+              <p>攻略3内容区</p>
+              <p>攻略3内容区</p>
+              <p>攻略3内容区</p>
+              <p>攻略3内容区</p>
+            </div>
+            <div class="mocha-tab-panel" style="display:block">
+              <p>攻略4内容区</p>
+              <p>攻略4内容区</p>
+              <p>攻略4内容区</p>
+              <p>攻略4内容区</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- footer -->
+    </div>
+
+  </div>
+
+<script src="http://game.gtimg.cn/images/js/zepto/zepto.min.js"></script>
+<script src="http://game.gtimg.cn/images/js/motion/tab.min.js"></script>
+<script src="http://game.gtimg.cn/images/js/motion/slide.v2.0.min.js"></script>
+<script>
+  $('#tabBox1 div.mocha-tab-panels').css("height",200);	//指定slider内容区高度
+  tab1 = new mo.Slide({
+    target: $('#tabBox1 div.mocha-tab-panel'),
+    controller: $('#tabBox1 .mocha-tab-triggers-ul li'),
+    direction: 'x',
+    effect: 'slide',
+    circle: true,
+    autoPlay: false
+  })	
+
+  $('#tabBox2 div.mocha-tab-panels').css("height",200);	//指定slider内容区高度
+  tab2 = new mo.Slide({
+    target: $('#tabBox2 div.mocha-tab-panel'),
+    controller: $('#tabBox2 .mocha-tab-triggers-ul li'),
+    direction: 'x',
+    effect: 'slide',
+    circle: true,
+    autoPlay: false
+  })	
+</script>
+</body>
+</html>

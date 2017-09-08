@@ -1,0 +1,20 @@
+.w_copy {
+  height: 2.4rem;
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+}
+.w_copy .cs {
+  width: 4.94rem;
+  height: 0.98rem;
+  background-image: url(http://game.gtimg.cn/images/cqsj/m/web201701/img/index/cs.png);
+  margin: 0 auto 0.4rem;
+}
+.w_copy .copy {
+  font-size: 0.2rem;
+  color: #fff;
+  opacity: .21;
+  text-align: center;
+}
+.w_copy .copy span {
+  display: block;
+}
