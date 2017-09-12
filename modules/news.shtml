@@ -4,9 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>新闻资讯</title>
+  <link rel="stylesheet" href="../css/common.css">
   <link href="http://game.gtimg.cn/images/js/mocha/mocha-1.1.min.css" rel="stylesheet">
 	<script src="http://game.gtimg.cn/images/js/mocha/mocha.min.js"></script>
+  <link rel="stylesheet" href="../css/news.css">
   <script>
     var w = document.documentElement.clientWidth || document.body.clientWidth;
     document.documentElement.style.fontSize = (w / 750 * 100) + 'px';
@@ -18,56 +20,121 @@
 </head>
 <body>
   <div class="wrap">
-    <div id="tabBox2" class="mocha-tab mocha-tab-scheme2 mocha-tab-skin1">
-      <div class="mocha-tab-triggers">
-        <ul class="mocha-tab-triggers-ul">
-          <li class="current">页签1</li>
-          <li>页签2</li>
-          <li>页签3</li>
-          <li>页签4</li>
-        </ul>
-      </div>
-      <div class="mocha-tab-panels">
-        <div class="mocha-tab-panel" style="display:block">
-          <p>页签1内容区</p>
-          <p>页签1内容区</p>
-          <p>页签1内容区</p>
-          <p>页签1内容区</p>
-        </div>
-        <div class="mocha-tab-panel" style="display:block">
-          <p>页签2内容区</p>
-          <p>页签2内容区</p>
-          <p>页签2内容区</p>
-          <p>页签2内容区</p>
-        </div>
-        <div class="mocha-tab-panel" style="display:block">
-          <p>页签3内容区</p>
-          <p>页签3内容区</p>
-          <p>页签3内容区</p>
-          <p>页签3内容区</p>
-        </div>
-        <div class="mocha-tab-panel" style="display:block">
-          <p>页签4内容区</p>
-          <p>页签4内容区</p>
-          <p>页签4内容区</p>
-          <p>页签4内容区</p>
-        </div>
-      </div>
+    <p class="gwm-news-title">新闻资讯1</p>
+    <div class="gwm-news-content">
+      <ul class="gwm-news-list">
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+        </li>
+      </ul>
     </div>
+  </div>
+  <div class="wrap">
+      <p class="gwm-news-title">新闻资讯2</p>
+      <div class="mocha-tab mocha-tab-scheme2 mocha-tab-skin1" module="tab">
+        <div class="mocha-tab-triggers">
+          <ul class="mocha-tab-triggers-ul">
+            <li class="current">页签1</li>
+            <li>页签2</li>
+            <li>页签3</li>
+            <li>页签4</li>
+          </ul>
+        </div>
+        <div class="mocha-tab-panels">
+          <div class="mocha-tab-panel">
+            <ul class="gwm-news-list">
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+            </ul>
+          </div>
+          <div class="mocha-tab-panel">
+            <ul class="gwm-news-list">
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+            </ul>
+          </div>
+          <div class="mocha-tab-panel">
+            <ul class="gwm-news-list">
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+            </ul>
+          </div>
+          <div class="mocha-tab-panel">
+            <ul class="gwm-news-list">
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+              <li class="gwm-news-item">
+                <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
   </div>
 <script src="http://game.gtimg.cn/images/js/zepto/zepto.min.js"></script>
 <script src="http://game.gtimg.cn/images/js/motion/tab.min.js"></script>
 <script src="http://game.gtimg.cn/images/js/motion/slide.v2.0.min.js"></script>
-<script>
-  $('#tabBox2 div.mocha-tab-panels').css("height",100);	//指定slider内容区高度
-  tab2 = new mo.Slide({
-    target: $('#tabBox2 div.mocha-tab-panel'),
-    controller: $('#tabBox2 .mocha-tab-triggers-ul li'),
-    direction: 'x',
-    effect: 'slide',
-    circle: true,
-    autoPlay: false
-  })	
-</script>
+<script src="../js/news.js"></script>
 </body>
-</html>
+</html>                                                                                                          

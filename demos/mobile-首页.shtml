@@ -7,6 +7,7 @@
   <title>Document</title>
   <link rel="stylesheet" href="../css/common.css">
   <link rel="stylesheet" href="../css/header.css">
+  <link rel="stylesheet" href="../css/footer.css">
   <link href="http://game.gtimg.cn/images/js/mocha/mocha-1.1.min.css" rel="stylesheet">
   <link rel="stylesheet" href="../css/demo.css">
   <script>
@@ -131,6 +132,15 @@
       </div>
 
       <!-- footer -->
+      <div class="wrap">
+        <div class="footer">
+          <i class="i cs">腾讯游戏|盛大游戏</i>
+          <p class="copy">
+            <span>COPYRIGHT &copy; 1998 - 2017 TENCENT. ALL RIGHTS RESERVED.</span>
+            <span>腾讯公司版权所有</span>
+          </p>
+        </div>
+      </div>
     </div>
 
   </div>
