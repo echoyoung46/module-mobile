@@ -1,8 +1,10 @@
 .gwm-news-title {
-  padding: .1rem;
+  margin: .1rem;
+  margin-bottom: 0;
+  padding-bottom: .1rem;
   border-bottom: 1px solid #d4d9de;
 }
-.gwm-news-content {
+.gwm-news-list {
   padding: .1rem;
 }
 .gwm-news-item {
@@ -10,4 +12,28 @@
 }
 .mocha-tab-panel {
   display: block;
+  width: 100%;
+  padding: 0;
+}
+.gwm-btn-more {
+  display: block;
+  text-align: center;
+}
+.gwm-news-link {
+  display: block;
+  overflow: hidden;
+}
+.gwm-news-item-img {
+  float: left;
+  margin-right: .08rem;
+}
+.gwm-news-item-content {
+  float: left;
+}
+.gwm-news-item-desc {
+  font-size: .12rem;
+}
+.gwm-news-item-time {
+  font-size: .1rem;
+  color: #666;
 }

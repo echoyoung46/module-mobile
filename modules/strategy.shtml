@@ -39,6 +39,7 @@
           <a href="#" class="gwm-news-link">[分类] | 攻略1</a>
         </li>
       </ul>
+      <a href="#" class="gwm-btn-more">查看更多</a>
     </div>
   </div>
   <div class="wrap">
@@ -130,11 +131,352 @@
             </ul>
           </div>
         </div>
+        <a href="#" class="gwm-btn-more">查看更多</a>
       </div>
+  </div>
+  <div class="wrap">
+    <p class="gwm-news-title">攻略3</p>
+    <div class="gwm-news-content">
+      <ul class="gwm-news-list">
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">
+            <div class="gwm-news-item-img">
+              <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+            </div>
+            <div class="gwm-news-item-content">
+              <p class="gwm-news-item-title">标题</p>
+              <p class="gwm-news-item-desc">概要</p>
+              <p class="gwm-news-item-time">09-13</p>
+            </div>
+          </a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">
+            <div class="gwm-news-item-img">
+              <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+            </div>
+            <div class="gwm-news-item-content">
+              <p class="gwm-news-item-title">标题</p>
+              <p class="gwm-news-item-desc">概要</p>
+              <p class="gwm-news-item-time">09-13</p>
+            </div>
+          </a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">
+            <div class="gwm-news-item-img">
+              <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+            </div>
+            <div class="gwm-news-item-content">
+              <p class="gwm-news-item-title">标题</p>
+              <p class="gwm-news-item-desc">概要</p>
+              <p class="gwm-news-item-time">09-13</p>
+            </div>
+          </a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">
+            <div class="gwm-news-item-img">
+              <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+            </div>
+            <div class="gwm-news-item-content">
+              <p class="gwm-news-item-title">标题</p>
+              <p class="gwm-news-item-desc">概要</p>
+              <p class="gwm-news-item-time">09-13</p>
+            </div>
+          </a>
+        </li>
+        <li class="gwm-news-item">
+          <a href="#" class="gwm-news-link">
+            <div class="gwm-news-item-img">
+              <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+            </div>
+            <div class="gwm-news-item-content">
+              <p class="gwm-news-item-title">标题</p>
+              <p class="gwm-news-item-desc">概要</p>
+              <p class="gwm-news-item-time">09-13</p>
+            </div>
+          </a>
+        </li>
+      </ul>
+      <a href="#" class="gwm-btn-more">查看更多</a>
+    </div>
+  </div>
+  <div class="wrap">
+    <p class="gwm-news-title">攻略4</p>
+    <div class="mocha-tab mocha-tab-scheme2 mocha-tab-skin1" module="tab">
+      <div class="mocha-tab-triggers">
+        <ul class="mocha-tab-triggers-ul">
+          <li class="current">页签1</li>
+          <li>页签2</li>
+          <li>页签3</li>
+          <li>页签4</li>
+        </ul>
+      </div>
+      <div class="mocha-tab-panels">
+        <div class="mocha-tab-panel">
+          <ul class="gwm-news-list">
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="mocha-tab-panel">
+          <ul class="gwm-news-list">
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="mocha-tab-panel">
+          <ul class="gwm-news-list">
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="mocha-tab-panel">
+          <ul class="gwm-news-list">
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+            <li class="gwm-news-item">
+              <a href="#" class="gwm-news-link">
+                <div class="gwm-news-item-img">
+                  <img src="http://via.placeholder.com/100x60" alt="" class="gwm-news-item-img">
+                </div>
+                <div class="gwm-news-item-content">
+                  <p class="gwm-news-item-title">标题</p>
+                  <p class="gwm-news-item-desc">概要</p>
+                  <p class="gwm-news-item-time">09-13</p>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <a href="#" class="gwm-btn-more">查看更多</a>
+    </div>
   </div>
 <script src="http://game.gtimg.cn/images/js/zepto/zepto.min.js"></script>
 <script src="http://game.gtimg.cn/images/js/motion/tab.min.js"></script>
 <script src="http://game.gtimg.cn/images/js/motion/slide.v2.0.min.js"></script>
-<script src="../js/strategy.js"></script>
+<script src="../js/common.js"></script>
 </body>
 </html>                                                                                                          

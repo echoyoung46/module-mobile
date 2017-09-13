@@ -39,6 +39,7 @@
           <a href="#" class="gwm-news-link">[分类] | 新闻1</a>
         </li>
       </ul>
+      <a href="#" class="gwm-btn-more">查看更多</a>
     </div>
   </div>
   <div class="wrap">
@@ -130,11 +131,12 @@
             </ul>
           </div>
         </div>
+        <a href="#" class="gwm-btn-more">查看更多</a>
       </div>
   </div>
 <script src="http://game.gtimg.cn/images/js/zepto/zepto.min.js"></script>
 <script src="http://game.gtimg.cn/images/js/motion/tab.min.js"></script>
 <script src="http://game.gtimg.cn/images/js/motion/slide.v2.0.min.js"></script>
-<script src="../js/news.js"></script>
+<script src="../js/common.js"></script>
 </body>
 </html>                                                                                                          
